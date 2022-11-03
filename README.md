@@ -12,7 +12,7 @@ Getting Started [#](#getting-started)
 *   [Basic Usage](#basic-usage)
 *   [Use Cases](#use-cases)
 
-### Installation [#](#installation)
+### Installation 
 
 Add
 
@@ -21,25 +21,25 @@ Add
     
     
 
-copied to clipboard
+
 
 to your pubspec.yaml, and run
 
     flutter packages get
     
 
-copied to clipboard
+
 
 in your project's root directory.
 
-### Basic Usage [#](#basic-usage)
+### Basic Usage
 
 Create a new project with command
 
     flutter create myapp
     
 
-copied to clipboard
+
 
 Edit lib/main.dart like this:
 
@@ -122,13 +122,13 @@ class _MyHomePageState extends State<MyHomePage> {
   }
 }
 
-copied to clipboard
+
 
 You can replace the image with one of your preference.
 
 
 
-### Use Cases [#](#use-cases)
+### Use Cases
 
 #### Game
 
@@ -205,5 +205,5 @@ You can replace the image with one of your preference.
    
     
 
-copied to clipboard
+
 
