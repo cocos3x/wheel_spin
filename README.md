@@ -10,7 +10,6 @@ Getting Started [#](#getting-started)
 
 *   [Installation](#installation)
 *   [Basic Usage](#basic-usage)
-*   [Constructor](#constructor)
 *   [Use Cases](#use-cases)
 
 ### Installation [#](#installation)
