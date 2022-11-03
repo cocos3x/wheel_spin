@@ -12,7 +12,11 @@ Getting Started [#](#getting-started)
 *   [Basic Usage](#basic-usage)
 *   [Use Cases](#use-cases)
 
+
+ <img  src="https://raw.githubusercontent.com/cocos3x/wheel_spin/main/assets/screenshot.jpg"  width="500px">
+
 ### Installation 
+
 
 Add
 
